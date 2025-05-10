@@ -11,4 +11,7 @@ My goals for this pet-projects are:
 Upd: I succesfully deployed the project using streamapp and later will provide screenshots for prove
 
 Right now I am still working on ML part as I experience a problem of lacking of data as there is no enough info about some categories of users.
-For example: We can see that over 80 % dta about house owning are rent and mortgage and because of that almost all people with their own house or other category will receive be unfairly rejected
+For example: We can see that over 80 % dta about house owning are rent and mortgage
+![Image alt](https://github.com/{Alexandrbel204}/{Loan-Approval}/raw/{main}/{pictures}/person_education.png)
+
+and because of that almost all people with their own house or other category will receive be unfairly rejected
