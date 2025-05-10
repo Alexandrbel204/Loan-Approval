@@ -18,5 +18,7 @@ Also we see that education is unbalanced category either
 ![Image alt](https://github.com/Alexandrbel204/Loan-Approval/blob/main/pictures/person_education.png)
 
 But the main problem is target where the most of loans are declined
+![Image alt](https://github.com/Alexandrbel204/Loan-Approval/blob/main/pictures/loan_status.png)
 
-Because of that almost all people with their own house or other category will receive be unfairly rejected
+Because of that almost all people with their own house or other category will receive be unfairly rejected.
+So that, my goal is to upgrade the metrics as much as possible and obtain the maximum profit for a bank.
