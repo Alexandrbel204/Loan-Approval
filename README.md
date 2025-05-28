@@ -22,3 +22,9 @@ But the main problem is target where the most of loans are declined
 
 Because of that almost all people with their own house or other category will receive be unfairly rejected.
 So that, my goal is to upgrade the metrics as much as possible and obtain the maximum profit for a bank.
+
+But before I complete it, let me show the output of my code.
+You can observe there a site (localhost) with some metrics that you can fill in, and based of them, AI will decide whether a bank should approve this loan for you or not
+![Image alt](https://github.com/Alexandrbel204/Loan-Approval/blob/main/pictures/result1.png)
+![Image alt](https://github.com/Alexandrbel204/Loan-Approval/blob/main/pictures/result2.png)
+
