@@ -23,7 +23,18 @@ But the main problem is target where the most of loans are declined
 Because of that almost all people with their own house or other category will receive be unfairly rejected.
 So that, my goal is to upgrade the metrics as much as possible and obtain the maximum profit for a bank.
 
-But before I complete it, let me show the output of my code.
+upd: I did it! I created GAN, VAE and Diffusion neural networks that totally boosted my results up to:
+1) Accuracy = 0.95
+2) Precision = 0.95
+3) Recall = 0.91
+4) F1-score = 0.93
+There you can see my architectures:
+![Image alt](https://github.com/Alexandrbel204/Loan-Approval/blob/main/pictures/arc1.png)
+![Image alt](https://github.com/Alexandrbel204/Loan-Approval/blob/main/pictures/arc2.png)
+![Image alt](https://github.com/Alexandrbel204/Loan-Approval/blob/main/pictures/arc3.png)
+
+
+Here is the final output of my code.
 You can observe there a site (localhost) with some metrics that you can fill in, and based of them, AI will decide whether a bank should approve this loan for you or not
 ![Image alt](https://github.com/Alexandrbel204/Loan-Approval/blob/main/pictures/result1.png)
 ![Image alt](https://github.com/Alexandrbel204/Loan-Approval/blob/main/pictures/result2.png)
