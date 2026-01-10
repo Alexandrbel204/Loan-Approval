@@ -28,6 +28,7 @@ upd: I did it! I created GAN, VAE and Diffusion neural networks that totally boo
 2) Precision = 0.95
 3) Recall = 0.91
 4) F1-score = 0.93
+   
 There you can see my architectures:
 ![Image alt](https://github.com/Alexandrbel204/Loan-Approval/blob/main/pictures/arc1.png)
 ![Image alt](https://github.com/Alexandrbel204/Loan-Approval/blob/main/pictures/arc2.png)
